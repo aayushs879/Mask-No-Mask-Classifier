@@ -11,4 +11,5 @@ In this approach resnet18 pretrained on Imagenet Data has been fine tuned for th
 <hr>
 <br>
 
+## Note
 For Inference we first detect the face from the image using Retinaface detector and then pass the image to model.
